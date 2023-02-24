@@ -15,7 +15,7 @@ class RecipeListScreenState extends State<RecipeListScreen> {
         "Pizza facile",
         "Par Irakoze Eddy Nobel",
         "https://assets.afcdn.com/recipe/20160519/15342_w600.jpg",
-        "Faire cuire dans une poêle les lardons et les champingnos. \nDans un bol,verserr la boite de concentré de tomate y \najouter un demi verre d'eau ensuite un carré de \nsucre(pour enlever l'acidité de la tomate) une pinceé de \nsel de poivre,et une pincée d'herbe de Provence.",
+        "Faire cuire dans une poêle les lardons et les champingnos. Dans un bol,verserr la boite de concentré de tomate y \najouter un demi verre d'eau ensuite un carré de \nsucre(pour enlever l'acidité de la tomate) une pinceé de \nsel de poivre,et une pincée d'herbe de Provence.",
         false,
         0),
     Recipe(
@@ -23,12 +23,12 @@ class RecipeListScreenState extends State<RecipeListScreen> {
         "Par Irakoze Eddy Nobel",
         // "https://cac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-jpg",
         "https://assets.afcdn.com/recipe/20160519/15342_w600.jpg",
-        "Faire cuire dans une poêle les lardons et les champingnos. \nDans un bol,verserr la boite de concentré de tomate y \najouter un demi verre d'eau ensuite un carré de \nsucre(pour enlever l'acidité de la tomate) une pinceé de \nsel de poivre,et une pincée d'herbe de Provence.",
+        "Faire cuire dans une poêle les lardons et les champingnos. Dans un bol,verserr la boite de concentré de tomate y \najouter un demi verre d'eau ensuite un carré de \nsucre(pour enlever l'acidité de la tomate) une pinceé de \nsel de poivre,et une pincée d'herbe de Provence.",
         false,
         0),
     Recipe(
         "Pizza facile",
-        "Par Irakoze Eddy Nobel",
+        "Par Irakoze Eddy Nobel.",
         "https://assets.afcdn.com/recipe/20160519/15342_w600.jpg",
         "Faire cuire dans une poêle les lardons et les champingnos. \nDans un bol,verserr la boite de concentré de tomate y \najouter un demi verre d'eau ensuite un carré de \nsucre(pour enlever l'acidité de la tomate) une pinceé de \nsel de poivre,et une pincée d'herbe de Provence.",
         false,
